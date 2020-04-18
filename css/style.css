@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    text-align: center;
+    /* color: #66BFBF; */
+}
+.container{
+    position: relative;
+    background-color: #EAF6F6;
+    border: 0.1px solid white;
+    margin-bottom: 80px;
+}
+p{
+    font-family: 'Unna', serif;
+    font-size: 1.3rem;
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.heading{
+    margin-top: 120px;
+    color: #66BFBF;
+    font-family: 'Tangerine', cursive;
+    font-size: 7rem;
+    line-height: 0.5;
+}
+.profession{
+    color: #66BFBF;
+    font-family: 'Unna', serif;
+    font-size: 2rem;
+}
+.me{
+    border-radius: 100%;
+    width: 230px;
+}
+.hello{
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+.intro{
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+.introduction{
+    color: #40514E;
+}
+hr{
+    margin: 80px auto 80px auto;
+    width: 3%;
+    border-top: 8px dotted rgb(168, 180, 180);
+}
+.skills{
+    width: 40%;
+    margin: 0 auto 50px auto;
+    /* border: 2px solid red; */
+}
+.myskills{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    margin-bottom: 80px;
+}
+.first-skill{
+    margin-bottom: 80px;
+}
+.skill-1-image{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.first-skill-heading{
+    color: rgb(9, 175, 175);
+    font-size: 1.5rem;
+    text-align: left;
+}
+.first-skill-para{
+    text-align: left;
+}
+.skill-2-image{
+    width: 150px;
+    float: right;
+    height: 150px;
+}
+.second-skill-heading{
+    color: rgb(9, 175, 175);
+    font-size: 1.5rem;
+    text-align: left;
+}
+.second-skill-para{
+    text-align: left;
+}
+.contact{
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+.contact-heading{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    /* margin-bottom: 80px; */
+}
+.contact-h3{
+    color: rgb(9, 175, 175);
+}
+button{
+    background-color: rgb(9, 175, 175);
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    /* box-shadow: 2px 2px 2px 1px black; */
+    width: 150px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px auto 120px auto;
+}
+button:hover{
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.footer{
+    background-color: rgb(9, 175, 175);
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(3, 71, 71);
+    font-size: 1.2rem;
+}
+.copyright{
+    color: white;
+    font-family: 'Unna', serif;
+}
